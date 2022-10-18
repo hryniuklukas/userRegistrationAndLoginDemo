@@ -1,4 +1,4 @@
-package com.github.hryniuklukas.userRegistrationAndLoginDemo.model;
+package com.github.hryniuklukas.userRegistrationAndLoginDemo.user.model;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

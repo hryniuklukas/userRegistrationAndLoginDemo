@@ -1,6 +1,6 @@
-package com.github.hryniuklukas.userRegistrationAndLoginDemo.security.config;
+package com.github.hryniuklukas.userRegistrationAndLoginDemo.security;
 
-import com.github.hryniuklukas.userRegistrationAndLoginDemo.services.AppUserService;
+import com.github.hryniuklukas.userRegistrationAndLoginDemo.user.services.AppUserService;
 import lombok.AllArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

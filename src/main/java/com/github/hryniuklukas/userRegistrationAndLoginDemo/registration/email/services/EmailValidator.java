@@ -1,4 +1,4 @@
-package com.github.hryniuklukas.userRegistrationAndLoginDemo.security;
+package com.github.hryniuklukas.userRegistrationAndLoginDemo.registration.email.services;
 
 import org.springframework.stereotype.Service;
 

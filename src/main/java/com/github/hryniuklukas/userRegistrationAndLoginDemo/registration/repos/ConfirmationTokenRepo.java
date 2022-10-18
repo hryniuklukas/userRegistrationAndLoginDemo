@@ -1,6 +1,6 @@
-package com.github.hryniuklukas.userRegistrationAndLoginDemo.repos;
+package com.github.hryniuklukas.userRegistrationAndLoginDemo.registration.repos;
 
-import com.github.hryniuklukas.userRegistrationAndLoginDemo.security.ConfirmationToken;
+import com.github.hryniuklukas.userRegistrationAndLoginDemo.registration.model.ConfirmationToken;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,6 +1,6 @@
-package com.github.hryniuklukas.userRegistrationAndLoginDemo.security;
+package com.github.hryniuklukas.userRegistrationAndLoginDemo.registration.model;
 
-import com.github.hryniuklukas.userRegistrationAndLoginDemo.model.AppUser;
+import com.github.hryniuklukas.userRegistrationAndLoginDemo.user.model.AppUser;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

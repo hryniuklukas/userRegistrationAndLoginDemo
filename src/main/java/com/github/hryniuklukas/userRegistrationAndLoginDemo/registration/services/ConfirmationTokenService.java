@@ -1,7 +1,7 @@
-package com.github.hryniuklukas.userRegistrationAndLoginDemo.services;
+package com.github.hryniuklukas.userRegistrationAndLoginDemo.registration.services;
 
-import com.github.hryniuklukas.userRegistrationAndLoginDemo.repos.ConfirmationTokenRepo;
-import com.github.hryniuklukas.userRegistrationAndLoginDemo.security.ConfirmationToken;
+import com.github.hryniuklukas.userRegistrationAndLoginDemo.registration.repos.ConfirmationTokenRepo;
+import com.github.hryniuklukas.userRegistrationAndLoginDemo.registration.model.ConfirmationToken;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
